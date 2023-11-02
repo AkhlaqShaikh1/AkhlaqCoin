@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# You can also own this coin just dm me your address and I ll transfer you some in good faith 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+## Its live on sepolia test as : https://sepolia.etherscan.io/token/0x5ff7492caabff69eac6ef3c1a78cc85518bf35ee
